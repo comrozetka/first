@@ -6,7 +6,6 @@ import org.openqa.selenium.WebDriver;
 
 public class SearchAllSmartPhones extends BaseForPages {
 
-
     public SearchAllSmartPhones(WebDriver driver) {
         super(driver);
     }
