@@ -5,9 +5,7 @@ import org.openqa.selenium.support.FindBy;
 
 import java.util.List;
 
-/**
- * Created by Obenon on 01.08.2015.
- */
+
 public class CSS_XPATH {
 
     // CSS
@@ -45,12 +43,4 @@ public class CSS_XPATH {
     private WebElement odnoclassnikiX;
 
 
-    public void click(WebElement webElement){
-        webElement.click();
     }
-
-
-
-
-
-}
